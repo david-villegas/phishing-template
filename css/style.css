@@ -1,17 +1,40 @@
 /* Base */
 body {
-    background-color: #FED974 !important;
-    /* line-height: 1.7;
+    background-image: url('/img/fondo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    line-height: 1.3 !important;
     color: #4d4d4d;
     font-weight: 300;
-    font-size: 1.1rem; */
+    font-size: 1.1rem;
   }
 
 .img-sec{
-    height: 300px !important;
+    height: 120px !important;
     /* width: 339px; */
 }
 
 .img-logo{
-    width: 330px;
+    width: 280px;
+}
+
+section{
+    width: 65% !important;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    background: #FFE7E7 !important;
+}
+
+section .text-ppal{
+    width: 80%;
+}
+
+footer .contenedorf{
+	margin-top: 3.5%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-bottom: 25px;
+	font-size: 10.5px;
 }
