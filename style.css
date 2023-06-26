@@ -1,0 +1,46 @@
+/* Base */
+body {
+    background-color: #FED974;
+    /* line-height: 1.7;
+    color: #4d4d4d;
+    font-weight: 300;
+    font-size: 1.1rem; */
+  }
+
+.container{
+    display: flex;
+}
+.container-fluid{
+    padding: 5px 50px 5px 50px;
+}
+.img-ppal{
+    display: grid;
+    place-content: center;
+}
+
+.img-sec{
+    height: 300px !important;
+    /* width: 339px; */
+}
+
+h1.title-ppal{
+    text-align: center;
+    color: red;
+}
+
+h4.text-ppal{
+    font-style: italic;
+}
+
+.email-mon{
+    font-weight: bold;
+}
+
+.logo{
+    display: grid;
+    place-content: center;
+}
+
+.img-logo{
+    width: 389px;
+}

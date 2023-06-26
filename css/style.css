@@ -1,0 +1,17 @@
+/* Base */
+body {
+    background-color: #FED974 !important;
+    /* line-height: 1.7;
+    color: #4d4d4d;
+    font-weight: 300;
+    font-size: 1.1rem; */
+  }
+
+.img-sec{
+    height: 300px !important;
+    /* width: 339px; */
+}
+
+.img-logo{
+    width: 330px;
+}
