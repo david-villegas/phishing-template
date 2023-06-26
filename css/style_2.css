@@ -1,10 +1,7 @@
 /* Base */
 body {
-    background-color: #FED974;
-    /* line-height: 1.7;
-    color: #4d4d4d;
-    font-weight: 300;
-    font-size: 1.1rem; */
+    font-family: Verdana,"sans-serif";
+    color: #002060;
   }
 
 .container{
@@ -43,4 +40,23 @@ h4.text-ppal{
 
 .img-logo{
     width: 389px;
+}
+
+/* _________________________________________________________________________ */
+
+section, .mail-header, .mail-footer, .end-footer{
+    display: grid;
+    place-content: center;
+}
+
+.mail-header{
+    margin-top: 50px;
+}
+
+section > h1, h4, p{
+    text-align: center;
+}
+
+.goto > a{
+    color: rgb(228,108,10);
 }
