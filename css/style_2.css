@@ -60,3 +60,7 @@ section > h1, h4, p{
 .goto > a{
     color: rgb(228,108,10);
 }
+
+.img-promo{
+    width: 720px;
+}
