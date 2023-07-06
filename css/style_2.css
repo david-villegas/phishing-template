@@ -44,7 +44,7 @@ h4.text-ppal{
 
 /* _________________________________________________________________________ */
 
-section, .mail-header, .mail-footer, .end-footer{
+section, .mail-header, .mail-footer, .end-footer, .promo{
     display: grid;
     place-content: center;
 }
@@ -63,4 +63,12 @@ section > h1, h4, p{
 
 .img-promo{
     width: 720px;
+}
+
+.img-promo-2{
+    height: 550px;
+}
+
+.img-promo-3{
+    width: 250px;
 }
